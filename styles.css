@@ -34,7 +34,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-image: url(back5.jpg);
+    background-image: url(back_image.jpg);
     background-size: cover;       /* Couvre toute la surface */
     background-position: center;  /* Centre l'image */
     background-repeat: no-repeat; /* Empêche la répétition */
